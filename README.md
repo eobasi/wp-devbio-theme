@@ -1,4 +1,4 @@
-# wp-devbio-theme
+# DEV Bio WordPress Theme
 Developer Bio is a modernized take on an ever-popular WordPress layout —  designed with developers in mind, the horizontal masthead with a right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Developer Bio will make your WordPress look beautiful everywhere.
 
 * Mobile-first, Responsive Layout
